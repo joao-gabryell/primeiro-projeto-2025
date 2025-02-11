@@ -10,8 +10,10 @@ background-color: rgb(247, 5, 25);
 }
 .primeirasescao{
     display: flex;
-    width: 200px;
-    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+    width: 1000px;
+    height: 500px;
     background-color: rgb(73, 226, 43);
 }
 .divisao{
