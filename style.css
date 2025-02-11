@@ -3,8 +3,8 @@ width: 40%px;
 }
 
 .cabecalho{
-width: 400px;
-height: 100px;
+width: 1000px;
+height: 400px;
 background-color: rgb(247, 5, 25);
 
 }
@@ -17,7 +17,7 @@ background-color: rgb(247, 5, 25);
     background-color: rgb(73, 226, 43);
 }
 .divisao{
-width: 400px;
-height: 100px;
+width: 1000px;
+height: 400px;
 background-color: rgb(30, 6, 253);
 }
