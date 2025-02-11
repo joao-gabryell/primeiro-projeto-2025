@@ -9,6 +9,7 @@ background-color: aquamarine;
 
 }
 .primeirasescao{
+    display: flex;
     width: 200px;
     height: 100px;
     background-color: rgb(73, 226, 43);
